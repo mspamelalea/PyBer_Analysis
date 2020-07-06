@@ -4,7 +4,8 @@ Pyber Ride-Share Analysis
 After a presentation depicting information about rides, fares, and city types, the next step was
 creating a summary DataFrame of the key metrics for the ride-sharing data by city type. The deliverd 
 data was merged and manipulated to produce a summary of the data for executives.
-
+![](Summary_df.png)
+![](Weekly_Fare_Total_line_graph.png)
 ### Purpose
 This exercise is intended to visually explain the relationship between average fares and city types over 
 a period of 4 months. Additionally, a summary is provided to show by City type: Total Drivers, Totals Rides,
